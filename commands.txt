@@ -1,0 +1,1 @@
+python multi_object_tracking.py --tracker mil --video MOT20-01.avi && python multi_object_tracking.py --tracker mil --video MOT20-02.avi && python multi_object_tracking.py --tracker mil --video MOT20-03.avi && python multi_object_tracking.py --tracker mil --video MOT20-05.avi 
